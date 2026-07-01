@@ -53,24 +53,6 @@ This dashboard helps analyze Uber's operational performance by tracking key busi
 | ⭐ Driver Rating | **4.23** |
 
 ---
-
-## 📷 Dashboard Preview
-
-### Dashboard 1
-![Dashboard 1](<img width="1126" height="622" alt="Uber dashboard 1" src="https://github.com/user-attachments/assets/3705aaf3-6ffb-48c1-8889-12b2d6320923" />
-)
-
-### Dashboard 2
-![Dashboard 2](Dashboard%20Images/Uber%20dashboard%203.png)
-
-### Dashboard 3
-![Dashboard 3](Dashboard%20Images/Uber%20dashboard%204.png)
-
-### Dashboard 4
-![Dashboard 4](Dashboard%20Images/Uber%20dashboard%205.png)
-
----
-
 ## 📌 Key Insights
 
 - Auto generated the highest overall revenue.
@@ -99,7 +81,6 @@ This dashboard helps analyze Uber's operational performance by tracking key busi
 Uber-Trip-Analysis-Dashboard
 │
 ├── Uber Dashboard.pbix
-├── Uber Dataset.xlsx
 ├── README.md
 └── Dashboard Images
     ├── Uber dashboard 2.png
