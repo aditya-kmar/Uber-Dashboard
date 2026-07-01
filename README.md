@@ -57,7 +57,8 @@ This dashboard helps analyze Uber's operational performance by tracking key busi
 ## 📷 Dashboard Preview
 
 ### Dashboard 1
-![Dashboard 1](Dashboard%20Images/Uber%20dashboard%202.png)
+![Dashboard 1](<img width="1126" height="622" alt="Uber dashboard 1" src="https://github.com/user-attachments/assets/3705aaf3-6ffb-48c1-8889-12b2d6320923" />
+)
 
 ### Dashboard 2
 ![Dashboard 2](Dashboard%20Images/Uber%20dashboard%203.png)
